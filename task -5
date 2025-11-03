@@ -1,0 +1,31 @@
+Task 5    
+Implementation of different types of Joins 
+Aim:  To Perform the advanced query processing and test its heuristics using the designing of 
+optimizing complex queries and their equivalence queries. 
+Procedures: 
+SQL JOIN 
+A JOIN clause is used to combine rows from two or more tables, based on a related column 
+between them. 
+Types of JOIN 
+1. Simple Join 
+1. Equi-join : 
+2. NonEqui-join : 
+2. Self-Join Query 
+3. Outer Join 
+1. Inner Join 
+2. Left Outer Join 
+3. Right Outer Join 
+4. Full Outer Join 
+The join is actually performed by the ‘where’ clause which combines specified rows of tables. 
+Simple Join: 
+It is the most common type of join. It retrieves the rows from 2 tables having a common columnOuter Join: 
+▪ It extends the result of a simple join. An outer join returns all the rows returned by 
+simplejoin as well as those rows from one table that do not match any row from the table.  
+▪ The symbol(+) represents outer join. 
+Outer Join 
+• Inner Join 
+• Left Join 
+• Right Join 
+• Full Outer Join 
+• (INNER) JOIN: Returns records that have matching values in both tables 
+• LEFT (OUTER) JOIN: Returns all records from the left table, and the matched records
